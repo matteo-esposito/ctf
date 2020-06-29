@@ -1,2 +1,4 @@
-# ctf
-Infosec, ctf and pentesting stuff
+# Infosec
+### Information Security
+
+Ctfs, pentesting and privesc stuff
