@@ -1,4 +1,4 @@
 # Infosec
-### Information Security
+### Information Security Practice
 
 Ctfs, pentesting and privesc stuff
